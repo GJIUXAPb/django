@@ -4,6 +4,9 @@
 
 ## Об образе
 
+- DockerHub: [gjiuxapb/django](https://hub.docker.com/r/gjiuxapb/django)
+- Последний образ: `gjiuxapb/django:latest`
+
 Образ основан на `python:3.13.7-slim` и включает в себя:
 
 *   Python 3.13.7
